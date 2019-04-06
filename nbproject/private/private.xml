@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/GameScenarios/BaseGame.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/GameScenarios/ScenarioTwo.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/test/RandomizedScenarioTest.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/test/ScenarioOneTest.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/Console.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Hazards/Accident.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Remedies/SpareTire.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/GameApp.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Safeties/FuelTank.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Hazards/SpeedLimit.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Safeties/PunctureProof.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Remedies/Repairs.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Hazards/OutofGas.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/GameScenarios/Game.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Card.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/GameScenarios/ScenarioMenu.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Remedies/Gasoline.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Safeties/RightofWay.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Safeties/DrivingAce.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/GameScenarios/ScenarioThree.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/GameScenarios/ScenarioFour.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Remedies/EndSpdLimit.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Hazards/Stop.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/GameScenarios/ScenarioOne.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Hazards/FlatTire.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Distance/Distance.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Cards/Remedies/Roll.java</file>
+            <file>file:/D:/Users/Thong%20Nguyen/Downloads/HW2-CS401-02/src/Game/Player.java</file>
+        </group>
+    </open-files>
+</project-private>
